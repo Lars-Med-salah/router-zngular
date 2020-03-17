@@ -1,0 +1,11 @@
+
+a{
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 1.2rem;
+}
+a:hover{
+  color: red;
+  font-size: 1.4rem
+}

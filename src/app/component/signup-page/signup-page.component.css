@@ -1,0 +1,51 @@
+.container{
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 45%;
+    margin: auto;
+    transform: translate(-50%,-50%);
+
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+hr{
+    width: 40%;
+    text-align: center;
+    height: 3px;
+    color: #333
+}
+ form {
+    
+    padding: 8px;
+    font-size: 20px;
+}
+
+input[type=text], input[type=password] , input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+
+  }
+  input[type=submit]{
+      background:  #4CAF50;
+      cursor: pointer;
+      color: white;
+      font-size: 20px;
+
+  }
+  input[type=submit]:hover{
+      opacity: .7;
+  }
+  .content{
+      padding: 16px;  
+  }
+ 
