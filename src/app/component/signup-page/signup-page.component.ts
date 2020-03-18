@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class SignupPageComponent implements OnInit {
 
   List : {any};
-  
+
   constructor() { 
     
   }
@@ -17,3 +17,4 @@ export class SignupPageComponent implements OnInit {
   }
 
 }
+//Dependency injection

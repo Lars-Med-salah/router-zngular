@@ -70,3 +70,15 @@ input[type=text], input[type=password] , input[type=submit] {
 
     }
   
+.event {
+    background:  rgb(58, 43, 145);
+      cursor: pointer;
+      color: white;
+      width: 30%;
+      padding: 12px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+}
